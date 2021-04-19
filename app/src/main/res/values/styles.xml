@@ -2,6 +2,7 @@
 
     <!-- For customizing the theme of the app -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--Renamed the item names to match the names of the colors in colors.xml -->
         <item name="colorPrimary">@color/primaryColor</item>
         <item name="colorPrimaryDark">@color/primaryDarkColor</item>
         <item name="colorAccent">@color/secondaryColor</item>
